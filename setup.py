@@ -16,6 +16,6 @@ setuptools.setup(
         "Bug Tracker": ""
     },
     license='MIT',
-    packages=['SpaceMAP'],
+    packages=['umap.utils'],
     install_requires=['requests'],
 )
