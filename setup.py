@@ -16,6 +16,6 @@ setuptools.setup(
         "Bug Tracker": ""
     },
     license='MIT',
-    packages=['umap.utils'],
+    packages=['umap_utils'],
     install_requires=['requests'],
 )
